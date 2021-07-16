@@ -26,8 +26,12 @@ Link: https://docs.google.com/document/d/1c_96JCbuFjALBIUUEXbrhTz5Gfxwx7wWkml5B7
 Se realiza el test de funcionalidad de la API del proyecto final, para realizar el test se implementa la herramienta de postman.
 
 En la siguientes capturas podemos vizualizar como se procedio a realizar el test, y que resultados se obtuvieron.
- 
+
+Resultado que se obtiene de hacer un GET hacia localhost:3000/sensores/2 
+
 ![](doc/json.png)
+
+Resultado que se obtiene de test.
 
 ![](doc/test.png)
 
