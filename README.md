@@ -18,11 +18,18 @@ esta caracteristica.
 
 ### Master test con el agregado de seguridad:
 A continuacion se comparte el documento del master test plan modificado
+
 Link: https://docs.google.com/document/d/1c_96JCbuFjALBIUUEXbrhTz5Gfxwx7wWkml5B7I3u_Y/edit?usp=sharing
 
 ### Test de la api del proyecto
 
+Se realiza el test de funcionalidad de la API del proyecto final, para realizar el test se implementa la herramienta de postman.
 
+En la siguientes capturas podemos vizualizar como se procedio a realizar el test, y que resultados se obtuvieron.
+ 
+![](doc/json.png)
+
+![](doc/test.png)
 
 ### Herramientas utilizadas para la implementacion
 
