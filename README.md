@@ -16,12 +16,11 @@ Docentes:
 Agregar seguridad al master test plan y desarrollar una accion de test de un test case sencillo de
 esta caracteristica.
 
-### Master test plan modificado con el agregado de seguridad:
-A continuacion se comparte el link del master test plan
+### Master test con el agregado de seguridad:
+A continuacion se comparte el documento del master test plan modificado
+Link: https://docs.google.com/document/d/1c_96JCbuFjALBIUUEXbrhTz5Gfxwx7wWkml5B7I3u_Y/edit?usp=sharing
 
-Link : https://docs.google.com/document/d/1c_96JCbuFjALBIUUEXbrhTz5Gfxwx7wWkml5B7I3u_Y/edit?usp=sharing
-
-## Test de la api del proyecto
+### Test de la api del proyecto
 
 
 
@@ -29,9 +28,7 @@ Link : https://docs.google.com/document/d/1c_96JCbuFjALBIUUEXbrhTz5Gfxwx7wWkml5B
 
 * Node Js
 * Postman
-* 
-* 
-* 
+
 
 
 
