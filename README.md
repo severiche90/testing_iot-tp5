@@ -31,7 +31,7 @@ Resultado que se obtiene de hacer un GET hacia localhost:3000/sensores/2
 
 ![](doc/json.png)
 
-Resultado que se obtiene de test.
+Resultado que se obtiene del test.
 
 ![](doc/test.png)
 
